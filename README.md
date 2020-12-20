@@ -1,5 +1,5 @@
 # Full Machine Learning with R
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Full Machine Learning with R](https://www.tertiarycourses.com.sg/full-machine-learning-with-r.html) course. 
 
